@@ -1,3 +1,2 @@
-ACTIVE=0
-MSG=Sistema desativado pelo desenvolvedor
-
+ACTIVE=1
+MSG=Sistema autorizado
